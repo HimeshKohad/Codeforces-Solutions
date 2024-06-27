@@ -21,3 +21,7 @@ This repository contains my solutions to Codeforces problems. I use this reposit
 ## Contributing
 
 Contributions, corrections, and suggestions are welcome! If you find a more efficient solution or a mistake, feel free to open an issue or pull request.
+
+## Credits
+
+I would like to acknowledge [Strivers CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/) for its comprehensive collection of problems and resources, which I use extensively for selecting and solving problems on Codeforces.
