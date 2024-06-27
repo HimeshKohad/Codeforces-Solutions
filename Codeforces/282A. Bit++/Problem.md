@@ -1,5 +1,7 @@
 ## [282A. Bit++](https://codeforces.com/problemset/problem/282/A)
 
+Problem Tags: ```implementation``` ```*800```
+
 The classic programming language of Bitland is Bit++. This language is so peculiar and complicated.
 
 The language is that peculiar as it has exactly one variable, called x. Also, there are two operations:
