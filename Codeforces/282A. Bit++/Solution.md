@@ -1,4 +1,4 @@
-## Solution - 282A. Bit++
+## Solution - [282A. Bit++](https://github.com/HimeshKohad/Codeforces-Solutions/blob/main/Codeforces/282A.%20Bit%2B%2B/Problem.md)
 
 ```cpp
 
