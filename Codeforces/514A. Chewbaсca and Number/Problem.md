@@ -1,5 +1,7 @@
 ## [514A. Chewbaсca and Number](https://codeforces.com/contest/514/problem/A)
 
+Problem Tags: ```greedy``` ```implementation``` ```*1200```
+
 Luke Skywalker gave Chewbacca an integer number x. Chewbacca isn't good at numbers but he loves inverting digits in them. Inverting digit t means replacing it with digit 9 - t.
 
 Help Chewbacca to transform the initial number x to the minimum possible positive number by inverting some (possibly, zero) digits. The decimal representation of the final number shouldn't start with a zero.
