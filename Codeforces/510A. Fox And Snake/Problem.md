@@ -1,5 +1,8 @@
 ## [510A. Fox And Snake](https://codeforces.com/problemset/problem/510/A)
 
+Problem Tags: ```implementation``` ```*800```
+
+
 Fox Ciel starts to learn programming. The first task is drawing a fox! However, that turns out to be too hard for a beginner, so she decides to draw a snake instead.
 
 A snake is a pattern on a n by m table. Denote c-th cell of r-th row as (r, c). 
